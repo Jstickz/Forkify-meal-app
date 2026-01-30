@@ -1,1 +1,3 @@
-Revipe Application with Custom Recipe Uploads
+# Forkify Project
+
+Recipe Application with Custom Recipe Uploads
